@@ -1,104 +1,224 @@
-# Hi, I'm Danish 👋
+# Hi, Everybody! Danish Ali's Here 👋
 
-I'm a Computer Science student who likes to **figure things out by building things**.
+<div align="center">
 
-I don't really have one fixed area of technology that I call my specialty yet. I'm still exploring.
+### Computer Science Student • Builder • Learner • A Person who loves Exploring the World
+### And Especially, A Person of Mindset
 
-One week I might be thinking about operating systems, another about AI, software architecture, networking, cybersecurity, or a completely different product idea. Sometimes that probably makes my learning path look scattered. But there is a common thread behind most of it:
+</div>
 
-**I'm interested in understanding how things work, and then asking what could be built on top of that understanding.**
+---
 
-I tend to start with questions.
+I'm a Computer Science student who likes to figure things out by **building them**.
+
+I don't have one fixed specialization yet. I'm still exploring.
+
+I tend to start with questions:
 
 > *What if this worked differently?*
 > *Could this problem be solved with software?*
-> *How would the system actually work underneath?*
+> *How would it actually work underneath?*
 > *Could this idea become something people would genuinely use?*
 
-And once an idea catches my attention, I usually want to take it much further than the original question.
+And when an idea catches my attention, I usually take it much further than the original question.
 
-That's why many of my projects aren't just exercises. I like thinking about the **system around the software**—its architecture, limitations, security, users, deployment, and whether the idea makes sense outside a classroom.
+I like understanding the **System Behind the Software** — how it is designed, how its parts interact, where it can fail, how it can be secured, and whether it actually makes sense outside a classroom.
 
-I'm still learning, and I make plenty of mistakes along the way. That's part of the point.
+I also have a habit of having far too many ideas at once.
 
-### What I'm Exploring
+I'm learning to balance that curiosity with something more important:
 
-* Artificial Intelligence and AI-assisted software
-* Software Engineering and System Architecture
-* Operating Systems and Linux
-* Computer Networking
-* Cybersecurity
-* Cloud Computing
-* Algorithms and Data Structures
-* Product Development and Entrepreneurship
+**Finishing what I start.**
 
-### How I Learn
+---
 
-I learn best when I have something real to build.
+## 🔭 What I'm Exploring
 
-Rather than studying a technology only because it is on a syllabus, I usually understand it better when I can connect it to a problem or a project.
+My interests currently move across several areas of Computer Science:
 
-So my learning process tends to look something like:
+* 🤖 Artificial Intelligence & Machine Learning
+* 💻 Software Engineering & System Architecture
+* 🖥️ Operating Systems & Linux
+* 🌐 Computer Networking
+* 🔐 Cybersecurity
+* ☁️ Cloud Computing
+* 🧮 Algorithms & Data Structures
+* 🚀 Product Development & Entrepreneurship
 
-**Question → Research → Experiment → Build → Break → Understand → Rebuild**
+I'm not claiming expertise in all of these. Some are areas I'm actively studying; others are areas I'm experimenting with through projects.
 
-I don't always follow that process perfectly. I also have a habit of having too many ideas at once.
+---
 
-But I'm gradually learning that having ideas is easy.
+## 🛠️ What I Build
 
-**Finishing them is the real skill.**
+Most of my learning happens through projects.
 
-### A Few Things I'm Building
+I prefer taking an idea and pushing it through the process of:
 
-**Aurora OS**
-An exploration into operating systems, Linux, systems programming, and what it would take to turn an ambitious OS concept into something that can actually be built.
+**Problem → Research → Design → Build → Break → Understand → Improve**
 
-**Distribution Management System**
-A real-world business software project combining POS, distribution management, inventory, customers, suppliers, reporting, offline operation, and cloud-connected services.
+Some projects are experiments.
+Some are university work.
+Some start as completely unreasonable ideas.
 
-**AI Mathematical Computing Environment**
-An exploration of what an AI-powered calculator could look like if it were designed specifically for solving and explaining higher-level mathematics rather than simply performing basic calculations.
+A few of them eventually become serious projects.
 
-**University Student Networking Platform**
-An idea for a platform where students can discover each other's skills, projects, interests, creative work, and opportunities to collaborate.
+---
 
-These projects are very different from one another.
+## 🚧 Projects
 
-That's intentional.
+### 🖥️ Aurora OS
 
-I'm still figuring out **which problems I want to spend years solving.**
+An ongoing exploration into operating systems, Linux, systems programming, and OS architecture.
 
-### Beyond Code
+The long-term idea is to understand the entire stack—from low-level system concepts to a usable operating-system environment.
 
-I'm also interested in things that sit outside traditional programming.
+**Exploring:** `Linux` `Rust` `Pyhton` `Operating Systems` `Systems Programming` `Architecture`
 
-I like thinking about:
+---
 
-* How technology becomes a product
-* How systems should be designed before they are built
-* How businesses can use technology effectively
-* How people learn and collaborate
-* How AI changes the way software is created
-* Why some ideas work while others don't
+### 📦 Distribution Management System
 
-Computer Science, for me, isn't just about writing code.
+A business-oriented desktop application designed around distribution and POS operations.
 
-It's becoming a way of **thinking about problems**.
+The system explores inventory, suppliers, customers, sales, reporting, offline operation, security, and cloud-connected services.
 
-### Where I'm Going
+**Built around:** `C#` `WPF` `.NET` `MVVM` `Clean Architecture` `SQLite` `EF Core`
 
-I don't have my entire career mapped out.
+---
 
-And I don't think I need to.
+### 🧮 AI Mathematical Computing Environment
 
-Right now, I'm trying to build a broad enough foundation that I can eventually recognize where my strongest interests, abilities, and opportunities overlap.
+An exploration of an AI-powered mathematical computing environment designed to help students work with higher-level mathematics such as calculus and linear algebra.
 
-For now, I'm learning, experimenting, building projects, abandoning some ideas, returning to others, and trying to become better at turning thoughts into things that actually work.
+The idea is not simply to produce an answer, but to combine mathematical computation with natural-language interaction.
+
+**Exploring:** `Python` `AI` `Mathematics` `Computer Algebra`
+
+---
+
+### 🌐 University Student Networking Platform
+
+A concept for connecting university students around their skills, projects, interests, creative work, and opportunities to collaborate.
+
+The goal is to make it easier to discover **what other students can actually do**, rather than only knowing them by their degree or semester.
+
+**Exploring:** `Web Development` `Cloud` `Social Platforms` `Student Networking`
+
+---
+
+## 💻 Technologies
+
+### Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Frameworks & Development
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge\&logo=windows\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+### Tools & Platforms
+
+`GitHub` • `Figma` • `Miro` • `Jira` • `Notion` • `Power BI` • `Cisco Packet Tracer` • `Microsoft Azure` • `Linux`
+
+---
+
+## 📚 Currently Learning
+
+```text
+Computer Science
+├── Data Structures & Algorithms
+├── Object-Oriented Programming
+├── Database Systems
+├── Computer Architecture
+└── Software Engineering
+
+Systems
+├── Linux
+├── Operating Systems
+├── Networking
+└── Systems Programming
+
+Artificial Intelligence
+├── Machine Learning
+├── AI Agents
+├── AI-assisted Development
+└── Mathematical Computing
+
+Professional Skills
+├── System Design
+├── Project Management
+├── Cloud Computing
+└── Product Development
+```
+
+---
+
+## 🎓 Education
+
+**BS Computer Science**
+
+Alongside university, I'm working through additional learning in:
+
+* Harvard CS50
+* CS50's Introduction to Artificial Intelligence with Python
+* Cisco networking
+* Microsoft Azure
+* Linux & cybersecurity
+* Software engineering
+* System design
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 What I'm Trying to Get Better At
+
+Not just learning more technologies.
+
+I'm trying to get better at:
+
+* Choosing problems worth solving
+* Designing before coding
+* Finishing projects
+* Writing better software
+* Understanding systems instead of memorizing tools
+* Turning experiments into usable projects
+
+Because knowing how to start a project is easy.
+
+**Learning how to finish one is harder.**
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in meeting people who like building things, discussing ideas, experimenting with technology, or working on interesting projects.
+
+If something here interests you, feel free to explore the repositories or reach out.
 
 ---
 
 <div align="center">
 
-**Still learning. Still building. Still figuring things out.**
+### Still learning. Still building. Still figuring things out.
 
 </div>

@@ -182,9 +182,18 @@ Alongside university, I'm working through additional learning in:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+<!-- Overall GitHub Statistics -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TUFAAN-Dev&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+<!-- Most Used Languages -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUFAAN-Dev&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<!-- Contribution Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUFAAAN-Dev&theme=github-dark-blue&hide_border=true" />
 
 </div>
 

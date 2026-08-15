@@ -4,7 +4,7 @@
 
 ### Computer Science Student • Builder • Self-Learner • A Person who loves Exploring the World
 ##### And Especially
-### "A Person with 'I never give up' Mindset"
+### "A Person of 'I never give up' Mindset"
 
 </div>
 

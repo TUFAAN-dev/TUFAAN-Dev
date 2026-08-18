@@ -2,8 +2,8 @@
 
 <div align="center">
 
-### Computer Science Student • Builder • Self-Learner • A Person who loves Exploring the World
-##### And Especially
+### Computer Science Student • Self-Learner • Builder • A Person who loves exploring the World
+#### And Especially
 ### "A Person of 'I never give up' Mindset"
 
 </div>
@@ -12,7 +12,7 @@
 
 I'm a Computer Science student who likes to figure things out by **building them**.
 
-I don't have one fixed specialization yet. I'm still exploring.
+I don't have one fixed specialization yet, and I'm still exploring.
 
 I tend to start with questions:
 

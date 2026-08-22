@@ -183,9 +183,6 @@ Alongside university, I'm working through additional learning in:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TUFAAN-dev&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUFAAN-dev&layout=compact&count_private=true&theme=github_dark&hide_border=true" />
 
 </div>
 

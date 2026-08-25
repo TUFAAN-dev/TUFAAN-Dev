@@ -78,6 +78,16 @@ The long-term idea is to understand the entire stack—from low-level system con
 
 ---
 
+### 🔎 North Pole Browser
+
+A sub-project of AuroraOS, building an AI-native next-gen web browser.
+
+Working on a final-year project alongside my studies and other semester projects. 
+
+**Exploring:** `Networking` `Multi-Language Interconnectivity` `Browsers` `Systems Programming` `Architecture.`
+
+---
+
 ### 📦 Distribution Management System
 
 A business-oriented desktop application designed around distribution and POS operations.

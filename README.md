@@ -1,10 +1,10 @@
-# Hi, Everybody! Danish Ali's Here 👋
+# Hi, Everybody! Danish Ali's here 👋
 
 <div align="center">
 
 ### Computer Science Student • Self-Learner • Builder • A Person who loves exploring the World
 #### And Especially
-### "A Person of 'I never give up' Mindset"
+### "A Man of an 'I never give up' Mindset"
 
 </div>
 
@@ -74,7 +74,7 @@ An ongoing exploration into operating systems, Linux, systems programming, and O
 
 The long-term idea is to understand the entire stack—from low-level system concepts to a usable operating-system environment.
 
-**Exploring:** `Linux` `Rust` `Pyhton` `Operating Systems` `Systems Programming` `Architecture`
+**Exploring:** `Linux` `Rust` `Python` `Operating Systems` `Systems Programming` `Architecture`
 
 ---
 
@@ -84,7 +84,7 @@ A sub-project of AuroraOS, building an AI-native next-gen web browser.
 
 Working on a final-year project alongside my studies and other semester projects. 
 
-**Exploring:** `Networking` `Multi-Language Interconnectivity` `Browsers` `Systems Programming` `Architecture.`
+**Exploring:** `Networking` `Multi-Language Interconnectivity` `Browsers` `Systems Programming` `Architecture`
 
 ---
 
@@ -104,7 +104,7 @@ An exploration of an AI-powered mathematical computing environment designed to h
 
 The idea is not simply to produce an answer, but to combine mathematical computation with natural-language interaction.
 
-**Exploring:** `Python` `AI` `Mathematics` `Computer Algebra`
+**Exploring:** `Python` `AI` `Mathematics` `Computer Algebra.`
 
 ---
 

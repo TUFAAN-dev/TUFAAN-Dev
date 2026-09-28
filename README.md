@@ -4,7 +4,7 @@
 
 ### Computer Science Student • Self-Learner • Builder • A Person who loves exploring the World
 #### And Especially
-### "A Man of an 'I never give up' Mindset"
+### "A Man of 'I never give up' Mindset"
 
 </div>
 
@@ -146,8 +146,8 @@ The goal is to make it easier to discover **what other students can actually do*
 
 ```text
 Computer Science
-├── Data Structures & Algorithms
 ├── Object-Oriented Programming
+├── Data Structures & Algorithms
 ├── Database Systems
 ├── Computer Architecture
 └── Software Engineering

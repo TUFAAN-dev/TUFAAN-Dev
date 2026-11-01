@@ -4,7 +4,7 @@
 
 ### Computer Science Student • Self-Learner • Builder • A Person who loves exploring the World
 #### And Especially
-### "A Man of 'I never give up' Mindset"
+### "A Man of an 'I never give up' Mindset"
 
 </div>
 
@@ -16,9 +16,12 @@ I don't have one fixed specialization yet, and I'm still exploring.
 
 I tend to start with questions:
 
-> *What if this worked differently?*
-> *Could this problem be solved with software?*
 > *How would it actually work underneath?*
+
+> *What if this worked differently?*
+
+> *Could this problem be solved with software?*
+
 > *Could this idea become something people would genuinely use?*
 
 And when an idea catches my attention, I usually take it much further than the original question.
@@ -46,7 +49,7 @@ My interests currently move across several areas of Computer Science:
 * 🧮 Algorithms & Data Structures
 * 🚀 Product Development & Entrepreneurship
 
-I'm not claiming expertise in all of these. Some are areas I'm actively studying; others are areas I'm experimenting with through projects.
+I don't claim expertise in all of these. Some are areas I'm actively studying; others are areas I'm experimenting with through projects.
 
 ---
 
@@ -72,15 +75,15 @@ A few of them eventually become serious projects.
 
 An ongoing exploration into operating systems, Linux, systems programming, and OS architecture.
 
-The long-term idea is to understand the entire stack—from low-level system concepts to a usable operating-system environment.
+The long-term aim is to understand the entire stack — from low-level system concepts to a usable operating-system environment.
 
-**Exploring:** `Linux` `Rust` `Python` `Operating Systems` `Systems Programming` `Architecture`
+**Exploring:** `Linux` `Rust` `Assembly` `Python` `Operating Systems` `Systems Programming` `Architecture`
 
 ---
 
 ### 🔎 North Pole Browser
 
-A sub-project of AuroraOS, building an AI-native next-gen web browser.
+A sub-project of Aurora-OS, building an AI-native next-gen web browser.
 
 Working on a final-year project alongside my studies and other semester projects. 
 
@@ -108,9 +111,9 @@ The idea is not simply to produce an answer, but to combine mathematical computa
 
 ---
 
-### 🌐 University Student Networking Platform
+### 🌐 University Student Networking Platform *GIMS Connect*
 
-A concept for connecting university students around their skills, projects, interests, creative work, and opportunities to collaborate.
+A concept for connecting university students around their skills, projects, interests, creative work, and collaborative opportunities.
 
 The goal is to make it easier to discover **what other students can actually do**, rather than only knowing them by their degree or semester.
 
@@ -180,13 +183,15 @@ Professional Skills
 
 Alongside university, I'm working through additional learning in:
 
-* Harvard CS50
+* Harvard CS50x - Introduction to Computer Science
 * CS50's Introduction to Artificial Intelligence with Python
 * Cisco networking
 * Microsoft Azure
 * Linux & cybersecurity
 * Software engineering
 * System design
+* PMP and CAPM
+
 
 ---
 
@@ -194,14 +199,13 @@ Alongside university, I'm working through additional learning in:
 
 <div align="center">
 
-
-</div>
-
 <br>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TUFAAN-dev&theme=github_dark" />
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TUFAAN-dev&theme=github_dark"
+/>
 
 </div>
 
@@ -212,6 +216,8 @@ Alongside university, I'm working through additional learning in:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TUFAAN-dev&theme=github_dark" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TUFAAN-dev&theme=github_dark" />
+
+</div>
 
 </div>
 
